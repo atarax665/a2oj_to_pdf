@@ -1,4 +1,4 @@
 pdfkit==0.6.1
 beautifulsoup4==4.8.2
 requests==2.22.0
-urllib3==1.25.8
+urllib3==1.26.5
