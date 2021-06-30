@@ -1,8 +1,6 @@
-# a2oj_to_pdf
-
 <p align="center">
   <a href="https://github.com/atarax665/a2oj_PDF_downloader">
-    <img src="assets/a2oj_logo.png" alt="a20j_pdf_downloader" width="300" height="250">
+    <img src="assets/a2oj_logo.png" alt="a20j_pdf_downloader" width="200" height="100">
   </a>
 
 
